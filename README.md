@@ -2,7 +2,7 @@
 
 ## Overview
 
-Generate Template is a tool that allows you to quickly duplicate existing project templates to help you get started with new projects more efficiently. There are three repositories that include a Generate Template project:
+Generate Template is a tool that allows you to quickly duplicate existing project templates to help you get started with new projects more efficiently. There are different designs of the project available on separate repositories, one for the command line interface (CLI) and the other for the Electron app. Users can download and use the version that best suits their needs and platform.
 
 - **Generate Template Shared Library**: A shared library that contains the common logic used by both the CLI and Electron applications.
 - **CLI Template Generator**: A command-line interface (CLI) tool that prompts the user to select a template from a list, then creates a new project from the selected template.
@@ -11,6 +11,8 @@ Generate Template is a tool that allows you to quickly duplicate existing projec
 ## Inspiration
 
 As a curious learner and developer, I love experimenting with new tools and frameworks. However, setting up a new project can be time-consuming, especially if I have to manually configure everything from scratch. I wanted to create a tool that would allow me to easily duplicate existing project templates so I could start coding right away, without having to spend a lot of time on setup and configuration.
+
+In addtion, this project allows me to experiment with different technologies and programming concepts by creating different designs, including a CLI and an Electron app, all based on the core idea of generating templates.
 
 ## How to Use
 
