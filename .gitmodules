@@ -4,3 +4,6 @@
 [submodule "Generate-templates-CLI"]
 	path = Generate-templates-CLI
 	url = https://github.com/Kiri23/Generate-templates-CLI
+[submodule "Generate-Template-Shared-Logic"]
+	path = Generate-Template-Shared-Logic
+	url = https://github.com/Kiri23/Generate-Template-Shared-Logic
