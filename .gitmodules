@@ -1,0 +1,6 @@
+[submodule "Generate-template-electron"]
+	path = Generate-template-electron
+	url = https://github.com/Kiri23/Generate-template-electron
+[submodule "Generate-templates-CLI"]
+	path = Generate-templates-CLI
+	url = https://github.com/Kiri23/Generate-templates-CLI

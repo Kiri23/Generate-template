@@ -14,4 +14,4 @@ As a curious learner and developer, I love experimenting with new tools and fram
 
 ## How to Use
 
-To use the Generate Template project, simply visit one of the repository linked and follow the instructions in the README files for each of the three repositories. The shared library should be already installed as a NPM depencency in the CLI and Electron projects.
+To use the Generate Template project, simply visit one of the repository linked and follow the instructions in the README files for each of the repository. The shared library should be already installed as a NPM depencency in the CLI and Electron projects.
